@@ -1,0 +1,32 @@
+aid: valr
+name: VALR
+description: "Cryptocurrency Exchange based in South Africa"
+url: https://docs.valr.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: VALR
+    description: "Cryptocurrency Exchange based in South Africa"
+    humanURL: https://docs.valr.com/
+    baseURL: https://docs.valr.com/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://docs.valr.com/
+common:
+  - type: Website
+    url: https://docs.valr.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
