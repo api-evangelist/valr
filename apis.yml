@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.valr.com/
 common:
+  - type: DomainSecurity
+    url: security/valr-domain-security.yml
   - type: Website
     url: https://docs.valr.com/
   - type: PublicAPIsListing
