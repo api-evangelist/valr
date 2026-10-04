@@ -39,7 +39,6 @@ apis:
   - name: VALR
     description: "Cryptocurrency Exchange based in South Africa"
     humanURL: https://docs.valr.com/
-    baseURL: https://docs.valr.com/
     tags:
       - Cryptocurrency
     properties:
